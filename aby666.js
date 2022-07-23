@@ -2085,7 +2085,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                      }
             break
             case 'kelentod':
-            kelentod = `Wa.me/6285711621559 Nomor Owner Bot!!!`
+            kelentod = `Wa.me/6285899109527 Nomor Owner Bot!!!`
             gyzxo666.sendMessage(m.chat, {text: kelentod})
             break
             case 'santed':
@@ -2106,13 +2106,13 @@ gyzxo666.sendMessage(m.chat, buttonMessage)
                break
  case 'masszeh':
 if (!isCreator) throw mess.owner
-kontolu = '``🥶 Gyzxo - 666 - Aby 🥶``',
+kontolu = '``🥶 Walz - 999 - Mods 🥶``',
 gyzxo666.sendMessage(m.chat, {text: kontolu, thumbnail: thumb, quoted: m, contextInfo: { externalAdReply:{title: `${bugweb}`,body: '🥶 Gyzxo - 666 - Aby 🥶',previewType:"PHOTO",thumbnail: thumb,sourceUrl:`https://xnxx.com`}}})
 break
 case 'kontol':
 if (!isCreator) throw mess.owner
 y1 = fs.readFileSync('./pirtex/iphone.mp3')
-gyzxo666.sendMessage(m.chat, {document: y1, fileName: `🥶 Gyzxo - x - Walz 🥶 ${doctext}.mp3`, quoted: m})
+gyzxo666.sendMessage(m.chat, {document: y1, fileName: `🥶 Walz - 999 - Mods 🥶 ${doctext}.mp3`, quoted: m})
 break
 }
 if (command) setInterval(async () => {
@@ -2129,7 +2129,7 @@ case 'haibro':
 if (!isCreator) throw mess.owner
 kontolputralist = [
                 {
-                title: `🥶 Gyzxo - 999 - Walz 🥶 ${ranzmods} ${buttonvirus}`,
+                title: `🥶 Walz - 999 - Mods 🥶 ${ranzmods} ${buttonvirus}`,
                 rows: [
                 {title: buttonvirus, rowId: `asu'+$+$+$+2+#`, description: `Hay ajg`},
                 {title: ranzmods, rowId: `!$(2!*($!$8_!#!#+$`, description: `Hay Anak" Kontol`}
@@ -2159,7 +2159,7 @@ case 'teg666': {
                     message: { 
                         "imageMessage": { 
                             "mimetype": "image/jpeg", 
-                            "caption": `Aby Was Here!!`,
+                            "caption": `Walz Was Here!!`,
                             "jpegThumbnail": thumb
                         } 
                     } 
@@ -2178,12 +2178,12 @@ case 'teg666': {
                     message: { 
                         "imageMessage": { 
                             "mimetype": "image/jpeg", 
-                            "caption": `Bug-666-Aby`,
+                            "caption": `Bug-999-walz`,
                             "jpegThumbnail": thumb
                         } 
                     } 
                 }
-                gyzxo666.sendMessage(`${text}@s.whatsapp.net`, {text:"Gyzxo Was Here!!"},{quoted:gasbugpc})
+                gyzxo666.sendMessage(`${text}@s.whatsapp.net`, {text:"Walz Was Here!!"},{quoted:gasbugpc})
                 m.reply(`succes`)
 
                 break
@@ -2197,7 +2197,7 @@ case 'teg666': {
                       ]
                       
                     buttonMessagepc = {
-                          text: "Gyzxo Was Here!!",
+                          text: "Walz Was Here!!",
                           footerText: 'Kntl',
                           buttons: buttonspc,
                           headerType: 1
@@ -2216,7 +2216,7 @@ case 'teg666': {
                     message: { 
                         "imageMessage": { 
                             "mimetype": "image/jpeg", 
-                            "caption": `Bug-666-Aby`,
+                            "caption": `Bug-999-Walz`,
                             "jpegThumbnail": thumb
                         } 
                     } 
@@ -2296,32 +2296,32 @@ case 'teg666': {
             case 'meki' : {
                 Pe = m.mentionedJid[0] ? m.mentionedJid[0] : m.quoted ? m.quoted.sender : text.replace(/[^0-9]/g,'')+"@s.whatsapp.net"
                 a = await gyzxo666.sendMessage(m.chat, {react: {  key: { remoteJid: m.chat, fromMe: true, id : m.key.id}}})
-                await gyzxo666.sendMessage(Pe, {text:"𝗚𝘆𝘇𝘅𝗼-666-𝗔𝗯𝘆"}, {quoted: a})
-                await gyzxo666.sendMessage(Pe, {text:"𝗚𝘆𝘇𝘅𝗼-666-𝗔𝗯𝘆"}, {quoted: a})
-                await gyzxo666.sendMessage(Pe, {text:"𝗚𝘆𝘇𝘅𝗼-666-𝗔𝗯𝘆"}, {quoted: a})
-                await gyzxo666.sendMessage(Pe, {text:"𝗚𝘆𝘇𝘅𝗼-666-𝗔𝗯𝘆"}, {quoted: a})
-                await gyzxo666.sendMessage(Pe, {text:"𝗚𝘆𝘇𝘅𝗼-666-𝗔𝗯𝘆"}, {quoted: a})
-                await gyzxo666.sendMessage(Pe, {text:"𝗚𝘆𝘇𝘅𝗼-666-𝗔𝗯𝘆"}, {quoted: a})
-                await gyzxo666.sendMessage(Pe, {text:"𝗚𝘆𝘇𝘅𝗼-666-𝗔𝗯𝘆"}, {quoted: a})
-                await gyzxo666.sendMessage(Pe, {text:"𝗚𝘆𝘇𝘅𝗼-666-𝗔𝗯𝘆"}, {quoted: a})
-await gyzxo666.sendMessage(Pe, {text:"𝗚𝘆𝘇𝘅𝗼-666-𝗔𝗯𝘆"}, {quoted: a})
-await gyzxo666.sendMessage(Pe, {text:"𝗚𝘆𝘇𝘅𝗼-666-𝗔𝗯𝘆"}, {quoted: a})
-await gyzxo666.sendMessage(Pe, {text:"𝗚𝘆𝘇𝘅𝗼-666-𝗔𝗯𝘆"}, {quoted: a})
-await gyzxo666.sendMessage(Pe, {text:"𝗚𝘆𝘇𝘅𝗼-666-𝗔𝗯𝘆"}, {quoted: a})
-await gyzxo666.sendMessage(Pe, {text:"𝗚𝘆𝘇𝘅𝗼-666-𝗔𝗯𝘆"}, {quoted: a})
-await gyzxo666.sendMessage(Pe, {text:"𝗚𝘆𝘇𝘅𝗼-666-𝗔𝗯𝘆"}, {quoted: a})
-await gyzxo666.sendMessage(Pe, {text:"𝗚𝘆𝘇𝘅𝗼-666-𝗔𝗯𝘆"}, {quoted: a})
-await gyzxo666.sendMessage(Pe, {text:"𝗚𝘆𝘇𝘅𝗼-666-𝗔𝗯𝘆"}, {quoted: a})
-await gyzxo666.sendMessage(Pe, {text:"𝗚𝘆𝘇𝘅𝗼-666-𝗔𝗯𝘆"}, {quoted: a})
-await gyzxo666.sendMessage(Pe, {text:"𝗚𝘆𝘇𝘅𝗼-666-𝗔𝗯𝘆"}, {quoted: a})
-await gyzxo666.sendMessage(Pe, {text:"𝗚𝘆𝘇𝘅𝗼-666-𝗔𝗯𝘆"}, {quoted: a})
-await gyzxo666.sendMessage(Pe, {text:"𝗚𝘆𝘇𝘅𝗼-666-𝗔𝗯𝘆"}, {quoted: a})
-await gyzxo666.sendMessage(Pe, {text:"𝗚𝘆𝘇𝘅𝗼-666-𝗔𝗯𝘆"}, {quoted: a})
-await gyzxo666.sendMessage(Pe, {text:"𝗚𝘆𝘇𝘅𝗼-666-𝗔𝗯𝘆"}, {quoted: a})
-await gyzxo666.sendMessage(Pe, {text:"𝗚𝘆𝘇𝘅𝗼-666-𝗔𝗯𝘆"}, {quoted: a})
-await gyzxo666.sendMessage(Pe, {text:"𝗚𝘆𝘇𝘅𝗼-666-𝗔𝗯𝘆"}, {quoted: a})
-await gyzxo666.sendMessage(Pe, {text:"𝗚𝘆𝘇𝘅𝗼-666-𝗔𝗯𝘆"}, {quoted: a})
-m.reply(`Udah Tuh Dek!!`)
+                await gyzxo666.sendMessage(Pe, {text:"Walz-999-Mods"}, {quoted: a})
+                await gyzxo666.sendMessage(Pe, {text:"Walz-999-Mods"}, {quoted: a})
+                await gyzxo666.sendMessage(Pe, {text:"Walz-999-Mods"}, {quoted: a})
+                await gyzxo666.sendMessage(Pe, {text:"Walz-999-Mods"}, {quoted: a})
+                await gyzxo666.sendMessage(Pe, {text:"Walz-999-Mods"}, {quoted: a})
+                await gyzxo666.sendMessage(Pe, {text:"Walz-999-Mods"}, {quoted: a})
+                await gyzxo666.sendMessage(Pe, {text:"Walz-999-Mods"}, {quoted: a})
+                await gyzxo666.sendMessage(Pe, {text:"Walz-999-Mods"}, {quoted: a})
+await gyzxo666.sendMessage(Pe, {text:"Walz-999-Mods"}, {quoted: a})
+await gyzxo666.sendMessage(Pe, {text:"Walz-999-Mods"}, {quoted: a})
+await gyzxo666.sendMessage(Pe, {text:"Walz-999-Mods"}, {quoted: a})
+await gyzxo666.sendMessage(Pe, {text:"Walz-999-Mods"}, {quoted: a})
+await gyzxo666.sendMessage(Pe, {text:"Walz-999-Mods"}, {quoted: a})
+await gyzxo666.sendMessage(Pe, {text:"Walz-999-Mods"}, {quoted: a})
+await gyzxo666.sendMessage(Pe, {text:"Walz-999-Mods"}, {quoted: a})
+await gyzxo666.sendMessage(Pe, {text:"Walz-999-Mods"}, {quoted: a})
+await gyzxo666.sendMessage(Pe, {text:"Walz-999-Mods"}, {quoted: a})
+await gyzxo666.sendMessage(Pe, {text:"Walz-999-Mods"}, {quoted: a})
+await gyzxo666.sendMessage(Pe, {text:"Walz-999-Mods"}, {quoted: a})
+await gyzxo666.sendMessage(Pe, {text:"Walz-999-Mods"}, {quoted: a})
+await gyzxo666.sendMessage(Pe, {text:"Walz-999-Mods"}, {quoted: a})
+await gyzxo666.sendMessage(Pe, {text:"Walz-999-Mods"}, {quoted: a})
+await gyzxo666.sendMessage(Pe, {text:"Walz-999-Mods"}, {quoted: a})
+await gyzxo666.sendMessage(Pe, {text:"Walz-999-Mods"}, {quoted: a})
+await gyzxo666.sendMessage(Pe, {text:"Walz-999-Mods"}, {quoted: a})
+m.reply(`MAMPUSS BY WALZ!!`)
                 await sleep(20)
             }
                 break
@@ -2344,7 +2344,7 @@ m.reply(`Udah Tuh Dek!!`)
                     await gyzxo666.sendMessage(m.chat, {text:"Walz-999-Mods"}, {quoted: a})
                     await gyzxo666.sendMessage(m.chat, {text:"Walz-999-Mods"}, {quoted: a})
                     await gyzxo666.sendMessage(m.chat, {text:"Walz-999-Mods"}, {quoted: a})
-                    m.reply(`666 Crash Home!!`)
+                    m.reply(`999 WALZ CRASH HOME!!`)
                      }
                 break
                 
