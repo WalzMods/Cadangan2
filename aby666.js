@@ -1903,7 +1903,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
 
 ダ ${prefix}aefka
 ダ ${prefix}santed
-ダ ${prefix}buttonwalz
+ダ ${prefix}bugxxnx
 ダ ${prefix}kontol
 ダ ${prefix}hai
 ダ ${prefix}teg666
@@ -2104,7 +2104,7 @@ const buttonMessage = {
 }
 gyzxo666.sendMessage(m.chat, buttonMessage)
                break
- case 'buttonwalz':
+ case 'bugxnxx':
 if (!isCreator) throw mess.owner
 kontolu = '``🥶 ⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟🤡🔥 🥶``',
 gyzxo666.sendMessage(m.chat, {text: kontolu, thumbnail: thumb, quoted: m, contextInfo: { externalAdReply:{title: `${bugweb}`,body: '🥶 ⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟🤡🔥 🥶',previewType:"PHOTO",thumbnail: thumb,sourceUrl:`https://xnxx.com`}}})
