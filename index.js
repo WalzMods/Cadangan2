@@ -215,7 +215,7 @@ async function startgyzxo666() {
         return status
     }
 	
-    gyzxo666.public = true
+    gyzxo666.public = false
 
     gyzxo666.serializeM = (m) => smsg(gyzxo666, m, store)
 
