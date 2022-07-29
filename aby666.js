@@ -2164,7 +2164,7 @@ case 'teg666': {
                         } 
                     } 
                 }
-            gyzxo666.sendMessage(m.chat, {text:"Bug 666 New"},{quoted:asukonyol11})
+            gyzxo666.sendMessage(m.chat, {text:"IKHWAL 999 GWANTENG"},{quoted:asukonyol11})
             break
             case 'ajg':
                 if (!isCreator) throw mess.owner
