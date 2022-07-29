@@ -5,8 +5,8 @@ const chalk = require('chalk')
 // Other
 global.owner = ['6285899109527','6285723156229','6285811153194']
 global.premium = ['6285899109527']
-global.packname = '⚡☫⃢Walz Mods⃢🇮🇩⻊'
-global.author = 'Was Here!!'
+global.packname = '⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟'
+global.author = '😜😜😜'
 global.sessionName = 'Gyzxo'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '🤠'
