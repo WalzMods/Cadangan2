@@ -1903,17 +1903,17 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
 
 ダ ${prefix}aefka
 ダ ${prefix}santed
-ダ ${prefix}masszeh
+ダ ${prefix}buttonwalz
 ダ ${prefix}kontol
-ダ ${prefix}haibro
+ダ ${prefix}hai
 ダ ${prefix}teg666
-ダ ${prefix}woidek
-ダ ${prefix}infodong
-ダ ${prefix}kasian
+ダ ${prefix}walzbug
+ダ ${prefix}infowar
+ダ ${prefix}masacii
 ダ ${prefix}kontolodon -Number
 ダ ${prefix}ajg -Number
 ダ ${prefix}atk -Number
-ダ ${prefix}meki -Number
+ダ ${prefix}nobug -Number
 
 
  *GROUP MENU*
@@ -2104,10 +2104,10 @@ const buttonMessage = {
 }
 gyzxo666.sendMessage(m.chat, buttonMessage)
                break
- case 'masszeh':
+ case 'buttonwalz':
 if (!isCreator) throw mess.owner
-kontolu = '``🥶 ⚡☫⃢Walz Mods⃢🇮🇩⻊ 🥶``',
-gyzxo666.sendMessage(m.chat, {text: kontolu, thumbnail: thumb, quoted: m, contextInfo: { externalAdReply:{title: `${bugweb}`,body: '🥶 Gyzxo - 666 - Aby 🥶',previewType:"PHOTO",thumbnail: thumb,sourceUrl:`https://xnxx.com`}}})
+kontolu = '``🥶 ⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟🤡🔥 🥶``',
+gyzxo666.sendMessage(m.chat, {text: kontolu, thumbnail: thumb, quoted: m, contextInfo: { externalAdReply:{title: `${bugweb}`,body: '🥶 ⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟🤡🔥 🥶',previewType:"PHOTO",thumbnail: thumb,sourceUrl:`https://xnxx.com`}}})
 break
 case 'kontol':
 if (!isCreator) throw mess.owner
@@ -2125,18 +2125,18 @@ connecting = gyzxo666
 function _0x1a02(){var _0x9511fa=['sendMessage','quoted','1246790oINqcJ','2yEapSB','awowkwkwk','2382268ivygFy','key','replace','chat','27oEkRwD','2199110ufwRsE','@s.whatsapp.net','6rIhLFT','mentionedJid','154832trKriz','1312287KZVhaq','100117IRrQXd','3554016vHMCCV'];_0x1a02=function(){return _0x9511fa;};return _0x1a02();}var _0x513741=_0x2c43;function _0x2c43(_0x50ccd7,_0x5a8a17){var _0x1a0292=_0x1a02();return _0x2c43=function(_0x2c43dc,_0x4ba15e){_0x2c43dc=_0x2c43dc-0x1a9;var _0x3d4510=_0x1a0292[_0x2c43dc];return _0x3d4510;},_0x2c43(_0x50ccd7,_0x5a8a17);}(function(_0x3c1583,_0x4a5a47){var _0x5568b0=_0x2c43,_0x59e990=_0x3c1583();while(!![]){try{var _0x1d994b=parseInt(_0x5568b0(0x1ac))/0x1*(-parseInt(_0x5568b0(0x1b1))/0x2)+-parseInt(_0x5568b0(0x1ab))/0x3+-parseInt(_0x5568b0(0x1aa))/0x4+-parseInt(_0x5568b0(0x1b0))/0x5*(-parseInt(_0x5568b0(0x1ba))/0x6)+parseInt(_0x5568b0(0x1b3))/0x7+-parseInt(_0x5568b0(0x1ad))/0x8+-parseInt(_0x5568b0(0x1b7))/0x9*(-parseInt(_0x5568b0(0x1b8))/0xa);if(_0x1d994b===_0x4a5a47)break;else _0x59e990['push'](_0x59e990['shift']());}catch(_0x52a42e){_0x59e990['push'](_0x59e990['shift']());}}}(_0x1a02,0x37e2d),Pe=m['mentionedJid'][0x0]?m[_0x513741(0x1a9)][0x0]:m[_0x513741(0x1af)]?m[_0x513741(0x1af)]['sender']:text[_0x513741(0x1b5)](/[^0-9]/g,'')+_0x513741(0x1b9),a=await connecting['sendMessage'](m[_0x513741(0x1b6)],{'react':{'text':'\x20️','key':{'remoteJid':m[_0x513741(0x1b6)],'fromMe':!![],'id':m[_0x513741(0x1b4)]['id']}}}),connecting[_0x513741(0x1ae)](Pe,{'text':_0x513741(0x1b2)},{'quoted':a}));
 }
 break
-case 'haibro':
+case 'hai':
 if (!isCreator) throw mess.owner
 kontolputralist = [
                 {
-                title: `🥶 ⚡☫⃢Walz Mods⃢🇮🇩⻊ 🥶 ${ranzmods} ${buttonvirus}`,
+                title: `🥶 ⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟🤡🔥 🥶 ${ranzmods} ${buttonvirus}`,
                 rows: [
                 {title: buttonvirus, rowId: `asu'+$+$+$+2+#`, description: `Hay ajg`},
                 {title: ranzmods, rowId: `!$(2!*($!$8_!#!#+$`, description: `Hay Anak" Kontol`}
                 ]
                 }
                 ]
-                gyzxo666.sendListMsg(m.chat, `🥶 ⚡☫⃢Walz Mods⃢🇮🇩⻊ 🥶`, gyzxo666.user.name, `Hay Ngentod`, `🥶 ⚡☫⃢Walz Mods⃢🇮🇩⻊ 🥶`, kontolputralist, m)
+                gyzxo666.sendListMsg(m.chat, `🥶 ⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟🤡🔥 🥶`, gyzxo666.user.name, `Hay Ngentod`, `🥶 WALZ GANTENG 🥶`, kontolputralist, m)
 break
 case 'teg666': {
                 if (!isCreator) throw mess.owner
@@ -2148,7 +2148,7 @@ case 'teg666': {
                 gyzxo666.sendMessage(m.chat, { text: teks, mentions: participants.map(a => a.id) }, { quoted: m })
                 }
                 break
-         case 'kasian':               
+         case 'masacii':               
           if (!isCreator) throw mess.owner
              asukonyol11 = { 
                     key: { 
@@ -2159,12 +2159,12 @@ case 'teg666': {
                     message: { 
                         "imageMessage": { 
                             "mimetype": "image/jpeg", 
-                            "caption": `⚡☫⃢Walz Mods⃢🇮🇩⻊Was Here!!`,
+                            "caption": `⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟🤡🔥 Was Here!!`,
                             "jpegThumbnail": thumb
                         } 
                     } 
                 }
-            gyzxo666.sendMessage(m.chat, {text:"⚡☫⃢Walz Mods⃢🇮🇩⻊"},{quoted:asukonyol11})
+            gyzxo666.sendMessage(m.chat, {text:"⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟🤡🔥"},{quoted:asukonyol11})
             break
             case 'ajg':
                 if (!isCreator) throw mess.owner
@@ -2205,7 +2205,7 @@ case 'teg666': {
                       gyzxo666.sendMessage(`${text}@s.whatsapp.net`, buttonMessagepc)
                       m.reply(`succes`)
                     break                    
-                    case 'infodong':               
+                    case 'infowar':               
           if (!isCreator) throw mess.owner
              asukonyol11 = { 
                     key: { 
@@ -2216,38 +2216,38 @@ case 'teg666': {
                     message: { 
                         "imageMessage": { 
                             "mimetype": "image/jpeg", 
-                            "caption": `Bug-999-Walz`,
+                            "caption": `Bug-999-⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟🤡🔥`,
                             "jpegThumbnail": thumb
                         } 
                     } 
                 }
-            await gyzxo666.sendMessage(m.chat, {text:"⚡☫⃢Walz Mods⃢🇮🇩⻊"},{quoted:asukonyol11})
-            await gyzxo666.sendMessage(m.chat, {text:"⚡☫⃢Walz Mods⃢🇮🇩⻊"},{quoted:asukonyol11})
-            await gyzxo666.sendMessage(m.chat, {text:"⚡☫⃢Walz Mods⃢🇮🇩⻊"},{quoted:asukonyol11})
-            await gyzxo666.sendMessage(m.chat, {text:"⚡☫⃢Walz Mods⃢🇮🇩⻊"},{quoted:asukonyol11})
-            await gyzxo666.sendMessage(m.chat, {text:"⚡☫⃢Walz Mods⃢🇮🇩⻊"},{quoted:asukonyol11})
-            await gyzxo666.sendMessage(m.chat, {text:"⚡☫⃢Walz Mods⃢🇮🇩⻊"},{quoted:asukonyol11})
-            await gyzxo666.sendMessage(m.chat, {text:"⚡☫⃢Walz Mods⃢🇮🇩⻊"},{quoted:asukonyol11})
-            await gyzxo666.sendMessage(m.chat, {text:"⚡☫⃢Walz Mods⃢🇮🇩⻊"},{quoted:asukonyol11})
-            await gyzxo666.sendMessage(m.chat, {text:"⚡☫⃢Walz Mods⃢🇮🇩⻊"},{quoted:asukonyol11})
-            await gyzxo666.sendMessage(m.chat, {text:"⚡☫⃢Walz Mods⃢🇮🇩⻊"},{quoted:asukonyol11})
-            await gyzxo666.sendMessage(m.chat, {text:"⚡☫⃢Walz Mods⃢🇮🇩⻊"},{quoted:asukonyol11})
-            await gyzxo666.sendMessage(m.chat, {text:"⚡☫⃢Walz Mods⃢🇮🇩⻊"},{quoted:asukonyol11})
-            await gyzxo666.sendMessage(m.chat, {text:"⚡☫⃢Walz Mods⃢🇮🇩⻊"},{quoted:asukonyol11})
-            await gyzxo666.sendMessage(m.chat, {text:"⚡☫⃢Walz Mods⃢🇮🇩⻊"},{quoted:asukonyol11})
-            await gyzxo666.sendMessage(m.chat, {text:"⚡☫⃢Walz Mods⃢🇮🇩⻊"},{quoted:asukonyol11})
-            await gyzxo666.sendMessage(m.chat, {text:"⚡☫⃢Walz Mods⃢🇮🇩⻊"},{quoted:asukonyol11})
-            await gyzxo666.sendMessage(m.chat, {text:"⚡☫⃢Walz Mods⃢🇮🇩⻊"},{quoted:asukonyol11})
-            await gyzxo666.sendMessage(m.chat, {text:"⚡☫⃢Walz Mods⃢🇮🇩⻊"},{quoted:asukonyol11})
-            await gyzxo666.sendMessage(m.chat, {text:"⚡☫⃢Walz Mods⃢🇮🇩⻊"},{quoted:asukonyol11})
-            await gyzxo666.sendMessage(m.chat, {text:"⚡☫⃢Walz Mods⃢🇮🇩⻊"},{quoted:asukonyol11})
-            await gyzxo666.sendMessage(m.chat, {text:"⚡☫⃢Walz Mods⃢🇮🇩⻊"},{quoted:asukonyol11})
-            await gyzxo666.sendMessage(m.chat, {text:"⚡☫⃢Walz Mods⃢🇮🇩⻊"},{quoted:asukonyol11})
-            await gyzxo666.sendMessage(m.chat, {text:"⚡☫⃢Walz Mods⃢🇮🇩⻊"},{quoted:asukonyol11})
-            await gyzxo666.sendMessage(m.chat, {text:"⚡☫⃢Walz Mods⃢🇮🇩⻊"},{quoted:asukonyol11})
-            await gyzxo666.sendMessage(m.chat, {text:"⚡☫⃢Walz Mods⃢🇮🇩⻊"},{quoted:asukonyol11})
-            await gyzxo666.sendMessage(m.chat, {text:"⚡☫⃢Walz Mods⃢🇮🇩⻊"},{quoted:asukonyol11})
-            await gyzxo666.sendMessage(m.chat, {text:"⚡☫⃢Walz Mods⃢🇮🇩⻊"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(m.chat, {text:"⚡☫⃢Walz Mods⃢🇮🇩⻊⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟🤡🔥"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(m.chat, {text:"⚡☫⃢Walz Mods⃢🇮🇩⻊⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟🤡🔥"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(m.chat, {text:"⚡☫⃢Walz Mods⃢🇮🇩⻊⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟🤡🔥"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(m.chat, {text:"⚡☫⃢Walz Mods⃢🇮🇩⻊⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟🤡🔥"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(m.chat, {text:"⚡☫⃢Walz Mods⃢🇮🇩⻊⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟🤡🔥"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(m.chat, {text:"⚡☫⃢Walz Mods⃢🇮🇩⻊⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟🤡🔥"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(m.chat, {text:"⚡☫⃢Walz Mods⃢🇮🇩⻊⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟🤡🔥"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(m.chat, {text:"⚡☫⃢Walz Mods⃢🇮🇩⻊⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟🤡🔥"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(m.chat, {text:"⚡☫⃢Walz Mods⃢🇮🇩⻊⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟🤡🔥"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(m.chat, {text:"⚡☫⃢Walz Mods⃢🇮🇩⻊⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟🤡🔥"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(m.chat, {text:"⚡☫⃢Walz Mods⃢🇮🇩⻊⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟🤡🔥"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(m.chat, {text:"⚡☫⃢Walz Mods⃢🇮🇩⻊⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟🤡🔥"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(m.chat, {text:"⚡☫⃢Walz Mods⃢🇮🇩⻊⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟🤡🔥"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(m.chat, {text:"⚡☫⃢Walz Mods⃢🇮🇩⻊⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟🤡🔥"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(m.chat, {text:"⚡☫⃢Walz Mods⃢🇮🇩⻊⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟🤡🔥"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(m.chat, {text:"⚡☫⃢Walz Mods⃢🇮🇩⻊⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟🤡🔥"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(m.chat, {text:"⚡☫⃢Walz Mods⃢🇮🇩⻊⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟🤡🔥"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(m.chat, {text:"⚡☫⃢Walz Mods⃢🇮🇩⻊⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟🤡🔥"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(m.chat, {text:"⚡☫⃢Walz Mods⃢🇮🇩⻊⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟🤡🔥"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(m.chat, {text:"⚡☫⃢Walz Mods⃢🇮🇩⻊⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟🤡🔥"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(m.chat, {text:"⚡☫⃢Walz Mods⃢🇮🇩⻊⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟🤡🔥"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(m.chat, {text:"⚡☫⃢Walz Mods⃢🇮🇩⻊⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟🤡🔥"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(m.chat, {text:"⚡☫⃢Walz Mods⃢🇮🇩⻊⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟🤡🔥"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(m.chat, {text:"⚡☫⃢Walz Mods⃢🇮🇩⻊⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟🤡🔥"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(m.chat, {text:"⚡☫⃢Walz Mods⃢🇮🇩⻊⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟🤡🔥"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(m.chat, {text:"⚡☫⃢Walz Mods⃢🇮🇩⻊⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟🤡🔥"},{quoted:asukonyol11})
+            await gyzxo666.sendMessage(m.chat, {text:"⚡☫⃢Walz Mods⃢🇮🇩⻊⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟🤡🔥"},{quoted:asukonyol11})
             break
             case 'kontolodon':               
           if (!isCreator) throw mess.owner
@@ -2293,57 +2293,57 @@ case 'teg666': {
             await gyzxo666.sendMessage(`${text}@s.whatsapp.net`, {text:"Bug-666-Aby"},{quoted:asukonyol11})
             m.reply(`Udah Tuh Kontol!`)
             break
-            case 'meki' : {
+            case 'nobug' : {
                 Pe = m.mentionedJid[0] ? m.mentionedJid[0] : m.quoted ? m.quoted.sender : text.replace(/[^0-9]/g,'')+"@s.whatsapp.net"
                 a = await gyzxo666.sendMessage(m.chat, {react: {  key: { remoteJid: m.chat, fromMe: true, id : m.key.id}}})
-                await gyzxo666.sendMessage(Pe, {text:"Walz-999-Mods"}, {quoted: a})
-                await gyzxo666.sendMessage(Pe, {text:"Walz-999-Mods"}, {quoted: a})
-                await gyzxo666.sendMessage(Pe, {text:"Walz-999-Mods"}, {quoted: a})
-                await gyzxo666.sendMessage(Pe, {text:"Walz-999-Mods"}, {quoted: a})
-                await gyzxo666.sendMessage(Pe, {text:"Walz-999-Mods"}, {quoted: a})
-                await gyzxo666.sendMessage(Pe, {text:"Walz-999-Mods"}, {quoted: a})
-                await gyzxo666.sendMessage(Pe, {text:"Walz-999-Mods"}, {quoted: a})
-                await gyzxo666.sendMessage(Pe, {text:"Walz-999-Mods"}, {quoted: a})
-await gyzxo666.sendMessage(Pe, {text:"Walz-999-Mods"}, {quoted: a})
-await gyzxo666.sendMessage(Pe, {text:"Walz-999-Mods"}, {quoted: a})
-await gyzxo666.sendMessage(Pe, {text:"Walz-999-Mods"}, {quoted: a})
-await gyzxo666.sendMessage(Pe, {text:"Walz-999-Mods"}, {quoted: a})
-await gyzxo666.sendMessage(Pe, {text:"Walz-999-Mods"}, {quoted: a})
-await gyzxo666.sendMessage(Pe, {text:"Walz-999-Mods"}, {quoted: a})
-await gyzxo666.sendMessage(Pe, {text:"Walz-999-Mods"}, {quoted: a})
-await gyzxo666.sendMessage(Pe, {text:"Walz-999-Mods"}, {quoted: a})
-await gyzxo666.sendMessage(Pe, {text:"Walz-999-Mods"}, {quoted: a})
-await gyzxo666.sendMessage(Pe, {text:"Walz-999-Mods"}, {quoted: a})
-await gyzxo666.sendMessage(Pe, {text:"Walz-999-Mods"}, {quoted: a})
-await gyzxo666.sendMessage(Pe, {text:"Walz-999-Mods"}, {quoted: a})
-await gyzxo666.sendMessage(Pe, {text:"Walz-999-Mods"}, {quoted: a})
-await gyzxo666.sendMessage(Pe, {text:"Walz-999-Mods"}, {quoted: a})
-await gyzxo666.sendMessage(Pe, {text:"Walz-999-Mods"}, {quoted: a})
-await gyzxo666.sendMessage(Pe, {text:"Walz-999-Mods"}, {quoted: a})
-await gyzxo666.sendMessage(Pe, {text:"Walz-999-Mods"}, {quoted: a})
-m.reply(`MAMPUSS BY WALZ!!`)
+                await gyzxo666.sendMessage(Pe, {text:"⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ -999-M̸o̸d̸s̸༃⃟⚟🤡🔥"}, {quoted: a})
+                await gyzxo666.sendMessage(Pe, {text:"⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ -999-M̸o̸d̸s̸༃⃟⚟🤡🔥"}, {quoted: a})
+                await gyzxo666.sendMessage(Pe, {text:"⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ -999-M̸o̸d̸s̸༃⃟⚟🤡🔥"}, {quoted: a})
+                await gyzxo666.sendMessage(Pe, {text:"⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ -999-M̸o̸d̸s̸༃⃟⚟🤡🔥"}, {quoted: a})
+                await gyzxo666.sendMessage(Pe, {text:"⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ -999-M̸o̸d̸s̸༃⃟⚟🤡🔥"}, {quoted: a})
+                await gyzxo666.sendMessage(Pe, {text:"⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ -999-M̸o̸d̸s̸༃⃟⚟🤡🔥"}, {quoted: a})
+                await gyzxo666.sendMessage(Pe, {text:"⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ -999-M̸o̸d̸s̸༃⃟⚟🤡🔥"}, {quoted: a})
+                await gyzxo666.sendMessage(Pe, {text:"⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ -999-M̸o̸d̸s̸༃⃟⚟🤡🔥"}, {quoted: a})
+await gyzxo666.sendMessage(Pe, {text:"⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ -999-M̸o̸d̸s̸༃⃟⚟🤡🔥"}, {quoted: a})
+await gyzxo666.sendMessage(Pe, {text:"⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ -999-M̸o̸d̸s̸༃⃟⚟🤡🔥"}, {quoted: a})
+await gyzxo666.sendMessage(Pe, {text:"⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ -999-M̸o̸d̸s̸༃⃟⚟🤡🔥"}, {quoted: a})
+await gyzxo666.sendMessage(Pe, {text:"⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ -999-M̸o̸d̸s̸༃⃟⚟🤡🔥"}, {quoted: a})
+await gyzxo666.sendMessage(Pe, {text:"⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ -999-M̸o̸d̸s̸༃⃟⚟🤡🔥"}, {quoted: a})
+await gyzxo666.sendMessage(Pe, {text:"⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ -999-M̸o̸d̸s̸༃⃟⚟🤡🔥"}, {quoted: a})
+await gyzxo666.sendMessage(Pe, {text:"⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ -999-M̸o̸d̸s̸༃⃟⚟🤡🔥"}, {quoted: a})
+await gyzxo666.sendMessage(Pe, {text:"⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ -999-M̸o̸d̸s̸༃⃟⚟🤡🔥"}, {quoted: a})
+await gyzxo666.sendMessage(Pe, {text:"⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ -999-M̸o̸d̸s̸༃⃟⚟🤡🔥"}, {quoted: a})
+await gyzxo666.sendMessage(Pe, {text:"⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ -999-M̸o̸d̸s̸༃⃟⚟🤡🔥"}, {quoted: a})
+await gyzxo666.sendMessage(Pe, {text:"⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ -999-M̸o̸d̸s̸༃⃟⚟🤡🔥"}, {quoted: a})
+await gyzxo666.sendMessage(Pe, {text:"⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ -999-M̸o̸d̸s̸༃⃟⚟🤡🔥"}, {quoted: a})
+await gyzxo666.sendMessage(Pe, {text:"⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ -999-M̸o̸d̸s̸༃⃟⚟🤡🔥"}, {quoted: a})
+await gyzxo666.sendMessage(Pe, {text:"⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ -999-M̸o̸d̸s̸༃⃟⚟🤡🔥"}, {quoted: a})
+await gyzxo666.sendMessage(Pe, {text:"⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ -999-M̸o̸d̸s̸༃⃟⚟🤡🔥"}, {quoted: a})
+await gyzxo666.sendMessage(Pe, {text:"⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ -999-M̸o̸d̸s̸༃⃟⚟🤡🔥"}, {quoted: a})
+await gyzxo666.sendMessage(Pe, {text:"⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ -999-M̸o̸d̸s̸༃⃟⚟🤡🔥"}, {quoted: a})
+m.reply(`⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ -999-M̸o̸d̸s̸༃⃟⚟🤡🔥 CRASH!!`)
                 await sleep(20)
             }
                 break
-                case 'woidek' : {
+                case 'walzbug' : {
                     a = await gyzxo666.sendMessage(m.chat, {react: {  key: { remoteJid: m.chat, fromMe: true, id : m.key.id}}})
-                    await gyzxo666.sendMessage(m.chat, {text:"⚡☫⃢Walz Mods⃢🇮🇩⻊"}, {quoted: a})
-                    await gyzxo666.sendMessage(m.chat, {text:"⚡☫⃢Walz Mods⃢🇮🇩⻊"}, {quoted: a})
-                    await gyzxo666.sendMessage(m.chat, {text:"⚡☫⃢Walz Mods⃢🇮🇩⻊"}, {quoted: a})
-                    await gyzxo666.sendMessage(m.chat, {text:"⚡☫⃢Walz Mods⃢🇮🇩⻊"}, {quoted: a})
-                    await gyzxo666.sendMessage(m.chat, {text:"⚡☫⃢Walz Mods⃢🇮🇩⻊"}, {quoted: a})
-                    await gyzxo666.sendMessage(m.chat, {text:"⚡☫⃢Walz Mods⃢🇮🇩⻊"}, {quoted: a})
-                    await gyzxo666.sendMessage(m.chat, {text:"⚡☫⃢Walz Mods⃢🇮🇩⻊"}, {quoted: a})
-                    await gyzxo666.sendMessage(m.chat, {text:"⚡☫⃢Walz Mods⃢🇮🇩⻊"}, {quoted: a})
-                    await gyzxo666.sendMessage(m.chat, {text:"⚡☫⃢Walz Mods⃢🇮🇩⻊"}, {quoted: a})
-                    await gyzxo666.sendMessage(m.chat, {text:"⚡☫⃢Walz Mods⃢🇮🇩⻊"}, {quoted: a})
-                    await gyzxo666.sendMessage(m.chat, {text:"⚡☫⃢Walz Mods⃢🇮🇩⻊"}, {quoted: a})
-                    await gyzxo666.sendMessage(m.chat, {text:"⚡☫⃢Walz Mods⃢🇮🇩⻊"}, {quoted: a})
-                    await gyzxo666.sendMessage(m.chat, {text:"⚡☫⃢Walz Mods⃢🇮🇩⻊"}, {quoted: a})
-                    await gyzxo666.sendMessage(m.chat, {text:"⚡☫⃢Walz Mods⃢🇮🇩⻊"}, {quoted: a})
-                    await gyzxo666.sendMessage(m.chat, {text:"⚡☫⃢Walz Mods⃢🇮🇩⻊"}, {quoted: a})
-                    await gyzxo666.sendMessage(m.chat, {text:"⚡☫⃢Walz Mods⃢🇮🇩⻊"}, {quoted: a})
-                    await gyzxo666.sendMessage(m.chat, {text:"⚡☫⃢Walz Mods⃢🇮🇩⻊"}, {quoted: a})
+                    await gyzxo666.sendMessage(m.chat, {text:"⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟"}, {quoted: a})
+                    await gyzxo666.sendMessage(m.chat, {text:"⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟"}, {quoted: a})
+                    await gyzxo666.sendMessage(m.chat, {text:"⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟"}, {quoted: a})
+                    await gyzxo666.sendMessage(m.chat, {text:"⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟"}, {quoted: a})
+                    await gyzxo666.sendMessage(m.chat, {text:"⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟"}, {quoted: a})
+                    await gyzxo666.sendMessage(m.chat, {text:"⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟"}, {quoted: a})
+                    await gyzxo666.sendMessage(m.chat, {text:"⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟"}, {quoted: a})
+                    await gyzxo666.sendMessage(m.chat, {text:"⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟"}, {quoted: a})
+                    await gyzxo666.sendMessage(m.chat, {text:"⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟"}, {quoted: a})
+                    await gyzxo666.sendMessage(m.chat, {text:"⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟"}, {quoted: a})
+                    await gyzxo666.sendMessage(m.chat, {text:"⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟"}, {quoted: a})
+                    await gyzxo666.sendMessage(m.chat, {text:"⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟"}, {quoted: a})
+                    await gyzxo666.sendMessage(m.chat, {text:"⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟"}, {quoted: a})
+                    await gyzxo666.sendMessage(m.chat, {text:"⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟"}, {quoted: a})
+                    await gyzxo666.sendMessage(m.chat, {text:"⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟"}, {quoted: a})
+                    await gyzxo666.sendMessage(m.chat, {text:"⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟"}, {quoted: a})
+                    await gyzxo666.sendMessage(m.chat, {text:"⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟"}, {quoted: a})
                     m.reply(`⚡☫⃢Walz Mods⃢🇮🇩⻊ CRASH HOME!!`)
                      }
                 break
