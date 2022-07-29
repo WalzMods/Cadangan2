@@ -1899,7 +1899,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
             break
             case 'list': case 'menu': case 'help': case '?': {
                 anu = ` 
-*AMPAS NIH!!*
+*🥶 ⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟🤡🔥 🥶*
 
 ダ ${prefix}aefka
 ダ ${prefix}santed
@@ -1916,7 +1916,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
 ダ ${prefix}nobug -Number
 
 
- *GROUP MENU*
+ *GRUP MENU 🥶 ⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟🤡🔥 🥶*
 
 ダ ${prefix}linkgroup
 ダ ${prefix}ephemeral [option]
@@ -1940,7 +1940,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
 ダ ${prefix}hapusvote
 
 
- *SEARCH MENU*
+ *SEARCH MENU 🥶 ⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟🤡🔥 🥶*
 
 ダ ${prefix}play [query]
 ダ ${prefix}yts [query]
@@ -1953,13 +1953,13 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
 ダ ${prefix}ringtone [query]
 
 
-*MAKER MENU*
+*MAKER MENU 🥶 ⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟🤡🔥 🥶*
 
 ダ ${prefix}attp [text]
 ダ ${prefix}ttp [text]
 
 
- *FUN MENU*
+ *FUN MENU 🥶 ⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟🤡🔥 🥶*
 
 ダ ${prefix}halah
 ダ ${prefix}hilih
@@ -1976,12 +1976,12 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
 ダ ${prefix}suitpvp [@tag]
 
 
- *PRIMBON MENU*
+ *PRIMBON MENU *
 
 ダ ${prefix}speedtest
 
 
- *TOOLS MENU*
+ *TOOLS MENU 🥶 ⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟🤡🔥 🥶*
 
 ダ ${prefix}toimage
 ダ ${prefix}removebg
@@ -1999,7 +1999,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
 ダ ${prefix}smeme
 
 
- *MAIN MENU*
+ *MAIN MENU 🥶 ⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟🤡🔥 🥶*
 
 ダ ${prefix}ping
 ダ ${prefix}owner
@@ -2013,7 +2013,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
 ダ ${prefix}speedtest
 
 
- *DATA BASE MENU*
+ *DATA BASE MENU 🥶 ⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟🤡🔥 🥶*
 
 ダ ${prefix}setcmd
 ダ ${prefix}listcmd
@@ -2025,7 +2025,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
 ダ ${prefix}delmsg
 
 
- *ANONYMOUS MENU*
+ *ANONYMOUS MENU 🥶 ⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟🤡🔥 🥶*
 
 ダ ${prefix}anonymous
 ダ ${prefix}start
@@ -2053,8 +2053,8 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                                 }
                             }, {
                                 urlButton: {
-                                    displayText: 'Script',
-                                    url: "https://www.youtube.com/channel/UC29cQ2pULR6ECAlAQIPUlfg"
+                                    displayText: 'TIKTOK',
+                                    url: "https://www.tiktok.com/@ikhwal_rmdhn"
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2063,7 +2063,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'AJG',
+                                    displayText: 'NEW',
                                     id: 'pepspeppe'
                                 }  
                             }, {
@@ -2098,7 +2098,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
 
 const buttonMessage = {
     text: "🥶666🥶",
-    footerText: '⚡☫⃢Walz Mods⃢🇮🇩⻊',
+    footerText: '⚡☫⃢Walz🥶 ⏤͟͞ঔৣོ⃟ཿW̸a̸l̸z̸ M̸o̸d̸s̸༃⃟⚟🤡🔥 🥶 Mods⃢🇮🇩⻊',
     buttons: buttons,
     headerType: 1
 }
